@@ -1,0 +1,35 @@
+[2022-01-21 15:41:09.204] [remoteagent] [info] Extension host agent started.
+[2022-01-21 15:41:12.194] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-01-21 15:41:12.763] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.f95ee5c7-ad73-46b3-a655-03357331214b: dbaeumer.vscode-eslint
+[2022-01-21 15:41:12.772] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2
+[2022-01-21 15:41:12.774] [remoteagent] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-01-21 15:41:12.774] [remoteagent] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-01-21 15:41:13.337] [remoteagent] [info] [::ffff:192.168.203.214][396d6ac6][ManagementConnection] New connection established.
+[2022-01-21 15:41:14.436] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-01-21 15:41:14.716] [remoteagent] [info] Installing extension: github.vscode-pull-request-github
+[2022-01-21 15:41:16.840] [remoteagent] [info] Downloaded extension: dbaeumer.vscode-eslint /workspace/.vscode-remote/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.2
+[2022-01-21 15:41:17.028] [remoteagent] [info] [::ffff:192.168.203.214][70b91daa][ExtensionHostConnection] New connection established.
+[2022-01-21 15:41:17.037] [remoteagent] [info] [::ffff:192.168.203.214][70b91daa][ExtensionHostConnection] <902> Launched Extension Host Process.
+[2022-01-21 15:41:17.216] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.d08624da-f4dc-4c46-807a-56031819c70a: dbaeumer.vscode-eslint
+[2022-01-21 15:41:17.226] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2
+[2022-01-21 15:41:17.228] [remoteagent] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-01-21 15:41:17.229] [remoteagent] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-01-21 15:41:17.232] [remoteagent] [info] Downloaded extension: github.vscode-pull-request-github /workspace/.vscode-remote/data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.34.3
+[2022-01-21 15:41:17.317] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.1d54a201-fdf9-4744-a274-9d29e2289f5b: github.vscode-pull-request-github
+[2022-01-21 15:41:17.323] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.34.3
+[2022-01-21 15:41:17.324] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
+[2022-01-21 15:41:17.324] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-01-21 15:41:21.536] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-01-21 15:41:21.536] [remoteagent] [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+[2022-01-21 15:41:24.191] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /workspace/.vscode-remote/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.19.0
+[2022-01-21 15:41:24.398] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.9c6fb0fd-5e76-4388-9a8e-724e25cf0e63: ms-azuretools.vscode-docker
+[2022-01-21 15:41:24.420] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.19.0
+[2022-01-21 15:41:24.424] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-01-21 15:41:24.424] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-01-21 15:41:24.945] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-01-21 15:41:24.945] [remoteagent] [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+[2022-01-21 15:41:25.039] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /workspace/.vscode-remote/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.19.0
+[2022-01-21 15:41:25.209] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.8a7fa1f8-afb3-47cb-9564-d4ef4e654c48: ms-azuretools.vscode-docker
+[2022-01-21 15:41:25.223] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.19.0
+[2022-01-21 15:41:25.226] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-01-21 15:41:25.226] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker

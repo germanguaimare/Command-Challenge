@@ -1,0 +1,78 @@
+[Info  - 3:42:24 PM] ESLint server is starting
+[Info  - 3:42:24 PM] ESLint server running in node v14.16.0
+[Info  - 3:42:24 PM] ESLint server is running.
+[Info  - 3:42:24 PM] ESLint library loaded from: /workspace/exercise-terminal-challenge/node_modules/eslint/lib/api.js
+(node:1343) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found.
+    at Config.getLocalConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:255:39)
+    at Config.getConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:179:43)
+    at Config.getConfigVector (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:286:21)
+    at Config.getConfig (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:329:29)
+    at CLIEngine.getConfigForFile (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/cli-engine.js:653:29)
+    at A.calculateConfigForFile (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:167786)
+    at /workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176344
+    at Ce (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:186295)
+    at h.then.o.validate (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176323)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1343) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+(node:1343) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:1343) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found.
+    at Config.getLocalConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:255:39)
+    at Config.getConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:179:43)
+    at Config.getConfigVector (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:286:21)
+    at Config.getConfig (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:329:29)
+    at CLIEngine.getConfigForFile (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/cli-engine.js:653:29)
+    at A.calculateConfigForFile (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:167786)
+    at /workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176344
+    at Ce (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:186295)
+    at h.then.o.validate (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176323)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:1343) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+(node:1343) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found.
+    at Config.getLocalConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:255:39)
+    at Config.getConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:179:43)
+    at Config.getConfigVector (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:286:21)
+    at Config.getConfig (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:329:29)
+    at CLIEngine.getConfigForFile (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/cli-engine.js:653:29)
+    at A.calculateConfigForFile (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:167786)
+    at /workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176344
+    at Ce (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:186295)
+    at h.then.o.validate (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176323)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:1343) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+(node:1343) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found.
+    at Config.getLocalConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:255:39)
+    at Config.getConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:179:43)
+    at Config.getConfigVector (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:286:21)
+    at Config.getConfig (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:329:29)
+    at CLIEngine.getConfigForFile (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/cli-engine.js:653:29)
+    at A.calculateConfigForFile (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:167786)
+    at /workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176344
+    at Ce (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:186295)
+    at h.then.o.validate (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176323)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:1343) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 8)
+(node:1343) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found.
+    at Config.getLocalConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:255:39)
+    at Config.getConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:179:43)
+    at Config.getConfigVector (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:286:21)
+    at Config.getConfig (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:329:29)
+    at CLIEngine.getConfigForFile (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/cli-engine.js:653:29)
+    at A.calculateConfigForFile (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:167786)
+    at /workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176344
+    at Ce (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:186295)
+    at h.then.o.validate (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176323)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:1343) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 9)
+(node:1343) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found.
+    at Config.getLocalConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:255:39)
+    at Config.getConfigHierarchy (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:179:43)
+    at Config.getConfigVector (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:286:21)
+    at Config.getConfig (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/config.js:329:29)
+    at CLIEngine.getConfigForFile (/workspace/exercise-terminal-challenge/node_modules/eslint/lib/cli-engine.js:653:29)
+    at A.calculateConfigForFile (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:167786)
+    at /workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176344
+    at Ce (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:186295)
+    at h.then.o.validate (/workspace/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176323)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:1343) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 10)
